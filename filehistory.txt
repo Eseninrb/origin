@@ -1,0 +1,229 @@
+ 1  dir
+    2  ls
+    3  pwd
+    4  cd
+    5  cd ~
+    6  cd c
+    7  cd eclipse
+    8  cd\f
+    9  cd/f
+   10  cd /f/
+   11  cd /l/
+   12  cd Course
+   13  cd  java
+   14  mkdir test-git-repo
+   15  ls
+   16  ls -l
+   17   cd test
+   18  cd test-git-repo/
+   19  git init
+   20  ls
+   21  ls -la
+   22  git satus
+   23  git status
+   24  pwd
+   25  exit
+   26  pwd
+   27  cd /f
+   28  cd course
+   29  cd /l
+   30  cd course
+   31  cd java
+   32  cd burdukevich-git-repo/
+   33  git status
+   34  git status
+   35  git add first.txt
+   36  git status
+   37  git commit
+   38   git config --global user.email "eseninrb@gmail.com
+   39  git config --global user.name "Daniil Burdukevich"
+   40  git status
+   41  status
+   42  --global
+   43  git status
+   44  git commit
+   45  git status
+   46  .git
+   47  cd \l\
+   48  cd c
+   49  cd l
+   50  cd /l
+   51  ls
+   52  ls
+   53  cd Course
+   54  cd Java/
+   55  ls
+   56  cd burdukevich-git-repo/
+   57  git status
+   58  git status
+   59  git add
+   60  git add first.txt
+   61  git commit
+   62  git status
+   63  git remote
+   64  git push
+   65  git branch task1
+   66  git chekout
+   67  git checkout
+   68  git status
+   69  git branch
+   70  git checkout task1
+   71  git log
+   72  git history
+   73  history
+   74  git status
+   75  git branch -a
+   76  toch task2.txt
+   77  touch task2.txt
+   78  git add task2.txt
+   79  git commit
+   80  git commit
+   81  git status
+   82  git log
+   83  git status
+   84  git add
+   85  git add task2.txt
+   86  touch task3.txt
+   87  open task3.txt
+   88  git log
+   89  git commit
+   90  git status
+   91  git add task3.txt
+   92  git commit
+   93  git status
+   94  git remote branch
+   95  git remote add task1
+   96  git remote add -t task1
+   97  git remote add branch task1
+   98  git status
+   99  git -a
+  100  git branch -a
+  101  git add .
+  102  git checkout -b task1
+  103  git push
+  104  git push origin task1
+  105  cd ..
+  106  mkdir burdukevich-git-repo2
+  107  ls
+  108  cd burdukevich-git-repo2
+  109  git clone git@github.com:Eseninrb/origin.git
+  110  git checkout master
+  111  cd /l
+  112  cd course
+  113  cd burdukevich-git-repo2
+  114  cd burdukevich-git-repo
+  115  cd java
+  116  cd burdukevich-git-repo
+  117  git checkout master
+  118  git pull
+  119  git merge task1
+  120  git log
+  121  cd burdukevich-git-repo2
+  122  cd ..
+  123  cd burdukevich-git-repo2
+  124  git clone git@github.com:Eseninrb/origin.git
+  125  git status
+  126  git init
+  127  git clone git@github.com:Eseninrb/origin.git
+  128  git checkout task1
+  129  git command
+  130  git --help
+  131  cd L:\Course\Java\burdukevich-git-repo
+  132  cd ..
+  133  cd burdukevich-git-repo
+  134  git checkout
+  135  git checkout -a
+  136  git -a
+  137  git checkout master
+  138  git merge task1
+  139  git merge master
+  140  git merge
+  141  git branch -b
+  142  git branch -v
+  143  git branch --merged
+  144  git status
+  145  merge
+  146  git merge help
+  147  git merge origin
+  148  git mervge -b
+  149  git merge -a
+  150  git commit
+  151  git checkout task1
+  152  git status
+  153  git add.
+  154  git add .
+  155  git commit
+  156  git commit -m
+  157  git commit -m 'create branck'
+  158  git push
+  159  git push origin task1
+  160  cd..
+  161  cd ..
+  162  cd burdukevich-git-repo2
+  163  git clone git@github.com:Eseninrb/origin.git
+  164  git checkout
+  165  git checkout task1
+  166  git status
+  167  git init
+  168  git checkout
+  169  git abort
+  170  git merge --abort
+  171  cd ..
+  172  cd bburdukevich-git-repo/
+  173  cd  burdukevich-git-rep
+  174  cd burdukevich-git-repo
+  175  git status
+  176  git checkout -v
+  177  git checkout -b
+  178  gir branch -b
+  179  gir branch -v
+  180  git branch -v
+  181  checkout master
+  182  git checkout master
+  183  git push
+  184  git pull
+  185  touch readme.md
+  186  open readme.md
+  187  notepad readme.md
+  188  cd ..
+  189  cd..
+  190  x
+  191  asodsdorsto
+  192  weoqwo
+  193  cd burdukevich-git-repo2
+  194  git checkout
+  195  git checkout -v
+  196  git checkout -b
+  197  git branch -v
+  198  git branch pull
+  199  markdown readme
+  200  git pull
+  201  git pull remote task1
+  202  cd..
+  203  cd ..
+  204  cd  burdukevich-git-repo/
+  205  git pull
+  206  git status
+  207  git pull
+  208  git pull task1
+  209  git remote pull
+  210  git status
+  211  git checkout task1
+  212  git status
+  213  git pull
+  214  git ls
+  215  git status
+  216  git status
+  217  git log
+  218  w
+  219  git remote status
+  220  git status
+  221  git add
+  222  git add.
+  223  git add .
+  224  git commit
+  225  git checkout master
+  226  git checkout -b task2
+  227  git history
+  228  history
+  229  touch filehistory.txt
